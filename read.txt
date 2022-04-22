@@ -1,0 +1,9 @@
+# HungryInfo
+All functions and wrk that I have delivered so Far.
+
+
+
+In this we have datafrom our datalake and table name is <adSearchClicks>
+In this we have changed some UI in our websites and wants to analyze whether users
+are liking this UI changes or not.
+So, we gonna click rate of UI before updates and after updates.
